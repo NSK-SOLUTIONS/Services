@@ -159,12 +159,6 @@ input, select, textarea{ font-family: inherit; font-size:16px; }
 }
 .btn--outline-light:hover{ border-color: var(--leaf-light); color: var(--leaf-light); }
 
-.btn--outline-dark{
-  background: var(--ink);
-  border-color: rgba(5,5,5,.25);
-  color: var(--ink);
-}
-.btn--outline-dark:hover{ border-color: var(--leaf-deep); color: var(--leaf-deep); }
 
 /* =========================================================
    TOP STRIP
