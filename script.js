@@ -153,7 +153,7 @@
   var form = d.getElementById("contactForm");
   var note = d.getElementById("formNote");
   var whatsappBtn = d.getElementById("whatsappSendBtn");
-  var NSK_WHATSAPP_NUMBER = "919344258382";
+  var NSK_WHATSAPP_NUMBER = "919344258383";
 
   function readForm() {
     var data = new FormData(form);
